@@ -1,0 +1,29 @@
+{
+  "name": "shapersjs",
+  "version": "0.0.0-alpha.1",
+  "description": "> TODO: description",
+  "author": "zhyjor <zhyjor@163.com>",
+  "homepage": "https://github.com/zhyjor/shaperjs#readme",
+  "license": "ISC",
+  "main": "lib/shapersjs.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhyjor/shaperjs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/zhyjor/shaperjs/issues"
+  }
+}
